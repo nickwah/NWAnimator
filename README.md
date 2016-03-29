@@ -1,0 +1,2 @@
+# NWAnimator
+Queue iOS animations 
